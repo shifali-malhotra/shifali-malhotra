@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @shifali-malhotra
+- 👀 I’m interested in Software Developing
+- 🌱 I’m currently learning Computer Science at the University of Iowa
+- 📫 How to reach me: Email is malhotra.shifali@yahoo.com
